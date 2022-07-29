@@ -1,4 +1,4 @@
-let numbers = [1, 2, 3, 4, 5];
-let reversedNumbers = numbers.reverse();
+let nam = ["ab","cd","ef","gh","ij"];
+let reversed = nam.reverse();
 
-console.log(reversedNumbers);
+console.log(reversed);
