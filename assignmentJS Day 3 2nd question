@@ -1,0 +1,9 @@
+
+country=[{name:"ind",cap:"d",pop:1999},
+{name:"sri",cap:"c",pop:1900},
+{name:"chi",cap:"b",pop:2020}]
+for(var i=0;i<country.length;i++)
+{
+  if(country [i].pop <2000)
+  console.log(country [i].name);
+}
